@@ -15,3 +15,6 @@
 
 - [devdojo tailwind css buttons](https://devdojo.com/tailwindcss/buttons#) - A unique collection of Copy & Paste TailwindCSS buttons 
 ![buttons](./assets/images/tailwind-css-buttons.png)
+
+- [loading.io animated background](https://loading.io/background/) - Animated Background Generators in SVG + PNG + GIF + MP4 + WEBM for Your Next Loading Screen. 
+![svg](./assets/images/svg.png)
